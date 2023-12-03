@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
     </a>
 
-
+---
 
 ![py-badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dj-badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -13,12 +13,10 @@
 ![tf-badge](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![ab-badge](https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
-
 ![aws-badge](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![gcp-badge](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
-    
+---
 
 
 ## Projects
