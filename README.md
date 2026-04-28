@@ -1,7 +1,7 @@
 <div align="center">
     <h1>김준 (Jun Kim)</h1>
     <h3>Python BackEnd Developer</h3>
-    <p>비즈니스 임팩트를 고민하고, 작은 팀에서 큰 레버리지를 만드는 5년차 백엔드 개발자</p>
+    <p>비즈니스 임팩트를 고민하고, 작은 팀에서 큰 레버리지를 만드는 백엔드 개발자</p>
     <a href="https://6691a.notion.site/ec2bf2a881c4498187677132205225ba?pvs=4">
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
     </a>
